@@ -38,3 +38,12 @@ starting from 2010.</p>
     <li>📂 <a href='http://www.tennis-data.co.uk/alldata.php' target='_blank'>WTA: Tennis-data</a> – This site provides the WTA dataset containing match data for women's tennis from the main tour.</li>
     <li>📊 <a href='https://www.oddsportal.com' target='_blank'>Odds: Oddsportal</a> – The Oddsportal website offers a comprehensive collection of bookmaker odds, including WTA matches.</li>
 </ul>
+
+<h2 style="color: black; font-weight: 550;">🚀 Try the Application</h2>
+
+<p style="color: black; font-weight: normal; font-size: 22px;">
+  You can launch and try the application by following this link:  
+  <a href="courtvision-ski.streamlit.app" target="_blank" style="color: #1E90FF; text-decoration: none;">
+    CourtVision Tennis App
+  </a>.  
+</p>
